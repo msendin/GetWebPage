@@ -3,10 +3,21 @@
     <CLASSES>
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/ee4e9754402c1ea7d8dc29a848d74502/jars/classes.jar!/" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/ee4e9754402c1ea7d8dc29a848d74502/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/5eb2a21d13f812f4eb8597b6822f8408/res" />
+      <root url="file://$USER_HOME$/Desktop/MaterialClasses/ADM/Recursos/MyBasicApp/Portugues/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/661831c229071086969d5312134ccec5/res" />
+      <root url="file://$USER_HOME$/Desktop/MaterialClasses/ADM/Recursos/MyBasicApp/Portugues/caches/transforms-2/files-2.1/054d779a91766207571d826869795163/interpolator-1.0.0/res" />
+      <root url="jar://$USER_HOME$/Desktop/MaterialClasses/ADM/Recursos/MyBasicApp/Portugues/caches/transforms-2/files-2.1/722883bbeda4a23af2c332d7342ff3d3/interpolator-1.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/Desktop/MaterialClasses/ADM/Recursos/MyBasicApp/Portugues/caches/transforms-2/files-2.1/722883bbeda4a23af2c332d7342ff3d3/interpolator-1.0.0/res" />
+      <root url="file://$USER_HOME$/Desktop/MaterialClasses/ADM/Recursos/MyBasicApp/Portugues/caches/transforms-2/files-2.1/722883bbeda4a23af2c332d7342ff3d3/interpolator-1.0.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/722883bbeda4a23af2c332d7342ff3d3/interpolator-1.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/b3b09621cca747e5e8d01c73cf2136e9/transformed/interpolator-1.0.0/res" />
+      <root url="file://$USER_HOME$/Desktop/MaterialClasses/ADM/Recursos/MyBasicApp/Portugues/caches/transforms-3/b3b09621cca747e5e8d01c73cf2136e9/transformed/interpolator-1.0.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/Desktop/MaterialClasses/ADM/Recursos/MyBasicApp/Portugues/caches/transforms-3/b3b09621cca747e5e8d01c73cf2136e9/transformed/interpolator-1.0.0/res" />
+      <root url="jar://$USER_HOME$/Desktop/MaterialClasses/ADM/Recursos/MyBasicApp/Portugues/caches/transforms-3/b3b09621cca747e5e8d01c73cf2136e9/transformed/interpolator-1.0.0/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.interpolator/interpolator/1.0.0/fefd5e3cbc479b6b4a9532d05688a1e659e8d3d2/interpolator-1.0.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/MaterialClasses/ADM/Recursos/MyBasicApp/Portugues/caches/modules-2/files-2.1/androidx.interpolator/interpolator/1.0.0/fefd5e3cbc479b6b4a9532d05688a1e659e8d3d2/interpolator-1.0.0-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

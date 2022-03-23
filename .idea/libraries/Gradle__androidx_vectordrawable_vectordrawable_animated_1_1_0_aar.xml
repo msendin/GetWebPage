@@ -3,10 +3,21 @@
     <CLASSES>
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.1.0.aar/84ef94eb8e49ca62d6c0536b1f6cb2a1/jars/classes.jar!/" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.1.0.aar/84ef94eb8e49ca62d6c0536b1f6cb2a1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.1.0.aar/0165adf73909eb4f900b96947983a882/res" />
+      <root url="file://$USER_HOME$/Desktop/MaterialClasses/ADM/Recursos/MyBasicApp/Portugues/caches/transforms-1/files-1.1/vectordrawable-animated-1.1.0.aar/32d3b63c98f08a84e16299968ecef550/res" />
+      <root url="file://$USER_HOME$/Desktop/MaterialClasses/ADM/Recursos/MyBasicApp/Portugues/caches/transforms-2/files-2.1/9d3d448a3878af78f8d5e2175d6f4332/vectordrawable-animated-1.1.0/res" />
+      <root url="jar://$USER_HOME$/Desktop/MaterialClasses/ADM/Recursos/MyBasicApp/Portugues/caches/transforms-2/files-2.1/666ad058b1d9c3d7c4bdf80afbc3e64c/vectordrawable-animated-1.1.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/Desktop/MaterialClasses/ADM/Recursos/MyBasicApp/Portugues/caches/transforms-2/files-2.1/666ad058b1d9c3d7c4bdf80afbc3e64c/vectordrawable-animated-1.1.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/Desktop/MaterialClasses/ADM/Recursos/MyBasicApp/Portugues/caches/transforms-2/files-2.1/666ad058b1d9c3d7c4bdf80afbc3e64c/vectordrawable-animated-1.1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/666ad058b1d9c3d7c4bdf80afbc3e64c/vectordrawable-animated-1.1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/e5eab7523fa294709cfed9955605f8ff/transformed/vectordrawable-animated-1.1.0/res" />
+      <root url="jar://$USER_HOME$/Desktop/MaterialClasses/ADM/Recursos/MyBasicApp/Portugues/caches/transforms-3/e5eab7523fa294709cfed9955605f8ff/transformed/vectordrawable-animated-1.1.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/Desktop/MaterialClasses/ADM/Recursos/MyBasicApp/Portugues/caches/transforms-3/e5eab7523fa294709cfed9955605f8ff/transformed/vectordrawable-animated-1.1.0/res" />
+      <root url="file://$USER_HOME$/Desktop/MaterialClasses/ADM/Recursos/MyBasicApp/Portugues/caches/transforms-3/e5eab7523fa294709cfed9955605f8ff/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.vectordrawable/vectordrawable-animated/1.1.0/871a7705cd03bc246947638c712cdd11378233ff/vectordrawable-animated-1.1.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/MaterialClasses/ADM/Recursos/MyBasicApp/Portugues/caches/modules-2/files-2.1/androidx.vectordrawable/vectordrawable-animated/1.1.0/871a7705cd03bc246947638c712cdd11378233ff/vectordrawable-animated-1.1.0-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

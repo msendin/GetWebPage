@@ -1,12 +1,12 @@
 apply plugin: 'com.android.application'
 
 android {
-    compileSdkVersion 29
+    compileSdkVersion 32
 
     defaultConfig {
         applicationId "com.msi.getwebpage"
-        minSdkVersion 26
-        targetSdkVersion 29
+        minSdkVersion 23
+        targetSdkVersion 30
         versionCode 1
         versionName "1.0"
     }
@@ -23,8 +23,8 @@ android {
         androidTestImplementation('androidx.test.espresso:espresso-core:3.1.0', {
             exclude group: 'com.android.support', module: 'support-annotations'
         })
-        implementation 'androidx.appcompat:appcompat:1.1.0'
-        testImplementation 'junit:junit:4.12'
+        implementation 'androidx.appcompat:appcompat:1.4.1'
+        testImplementation 'junit:junit:4.13.2'
     }
 
 }

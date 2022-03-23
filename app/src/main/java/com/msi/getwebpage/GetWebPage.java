@@ -74,15 +74,8 @@ public class GetWebPage extends Activity {
                                 conn.connect();
                                 // Get the response
                                 BufferedReader rd = new BufferedReader(new InputStreamReader(conn.getInputStream()));
-                                String line = "";
+                                String line;
                                 while ((line = rd.readLine()) != null) {
-
-                                    /*Message lmsg;
-                                    lmsg = new Message();
-                                    lmsg.obj = line;
-                                    lmsg.what = 0;
-                                    GetWebPage.this.h.sendMessage(lmsg);*/
-
                                     GetWebPage.this.h.post(new updateUIThread(line));
                                 }
                             }catch (MalformedURLException e) {

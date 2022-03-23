@@ -3,10 +3,21 @@
     <CLASSES>
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/8ce8f3ea2b3e55578247283602f513e5/jars/classes.jar!/" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/8ce8f3ea2b3e55578247283602f513e5/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/3d9758a42a52571d37029ccdb0024395/res" />
+      <root url="file://$USER_HOME$/Desktop/MaterialClasses/ADM/Recursos/MyBasicApp/Portugues/caches/transforms-1/files-1.1/customview-1.0.0.aar/df36030402c296f630ef1df838c8052f/res" />
+      <root url="file://$USER_HOME$/Desktop/MaterialClasses/ADM/Recursos/MyBasicApp/Portugues/caches/transforms-2/files-2.1/4d3225ea5d57f620bf5356e2a6f066d6/customview-1.0.0/res" />
+      <root url="jar://$USER_HOME$/Desktop/MaterialClasses/ADM/Recursos/MyBasicApp/Portugues/caches/transforms-2/files-2.1/9f97f489f2a5c174c803b63b463795b0/customview-1.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/Desktop/MaterialClasses/ADM/Recursos/MyBasicApp/Portugues/caches/transforms-2/files-2.1/9f97f489f2a5c174c803b63b463795b0/customview-1.0.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/Desktop/MaterialClasses/ADM/Recursos/MyBasicApp/Portugues/caches/transforms-2/files-2.1/9f97f489f2a5c174c803b63b463795b0/customview-1.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9f97f489f2a5c174c803b63b463795b0/customview-1.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/28631a0b111c0273601954918fe48ec5/transformed/customview-1.0.0/res" />
+      <root url="file://$USER_HOME$/Desktop/MaterialClasses/ADM/Recursos/MyBasicApp/Portugues/caches/transforms-3/28631a0b111c0273601954918fe48ec5/transformed/customview-1.0.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/Desktop/MaterialClasses/ADM/Recursos/MyBasicApp/Portugues/caches/transforms-3/28631a0b111c0273601954918fe48ec5/transformed/customview-1.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/Desktop/MaterialClasses/ADM/Recursos/MyBasicApp/Portugues/caches/transforms-3/28631a0b111c0273601954918fe48ec5/transformed/customview-1.0.0/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.customview/customview/1.0.0/61f6a717d144dff3a6bda413d9abeeb2bca71581/customview-1.0.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/MaterialClasses/ADM/Recursos/MyBasicApp/Portugues/caches/modules-2/files-2.1/androidx.customview/customview/1.0.0/61f6a717d144dff3a6bda413d9abeeb2bca71581/customview-1.0.0-sources.jar!/" />
     </SOURCES>
   </library>
 </component>
